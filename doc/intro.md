@@ -1,3 +1,3 @@
 # Introduction to find-nth-prime
 
-TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)
+This is my solution to the 7th problem of the Euler project. Continuing my clojure practice. 
